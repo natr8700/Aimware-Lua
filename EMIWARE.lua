@@ -31,7 +31,7 @@ local function Tracer ()
 end
 
 -- 워터마크
-local DEV = 'DEV: samka8700'
+local DEV = 'your name'
 local LOCAL_WATERMARK = draw.CreateFont("Verdana", 13, 900)
 local font = draw.CreateFont("Tahoma", 14, 500)
 
